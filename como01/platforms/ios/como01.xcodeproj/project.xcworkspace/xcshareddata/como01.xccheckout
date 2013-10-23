@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F4D466D4-F7A0-47EE-A47D-DAE94064D0A8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>como01</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0094EBD2-D64E-4D1C-A321-5AADC962CC75</key>
+		<string>https://github.com/PierLucaLanzi/ComoMobileCourse.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>como01/platforms/ios/como01.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0094EBD2-D64E-4D1C-A321-5AADC962CC75</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/PierLucaLanzi/ComoMobileCourse.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0094EBD2-D64E-4D1C-A321-5AADC962CC75</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0094EBD2-D64E-4D1C-A321-5AADC962CC75</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ComoMobileCourse</string>
+		</dict>
+	</array>
+</dict>
+</plist>
